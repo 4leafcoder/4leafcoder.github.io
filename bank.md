@@ -1,12 +1,12 @@
-# Who uses DoorDash anyway?
+### Who uses DoorDash anyway?
 
 I recently went on a trip to New York City. On the second day of the trip, I was dreading the idea of walking a few blocks to have a meal. I had walked about 10 miles so far each day, which is about double my daily average. Then I got a great idea to have dinner delivered! I opened DoorDash and was instantly overwhelmed with hundreds of options. I decided to order tacos. While I was waiting for my order, I started to wonder who else would have resorted to a delivery app. Would younger people just make the walk? Do older people use DoorDash more? Fortunately, there’s data we can look at to try to find some answers. 
 The data set available to me is from an app called iFood. 
 
 A couple of notes about the data set:
-*It contains user data for a sample of 2,205 iFood app users.
-*Information collected includes age, annual income, amount spent in last 2 years, education level, marital status, marketing campaign responses
-+Users range from age 24 to age 80.
+-It contains user data for a sample of 2,205 iFood app users.
+-Information collected includes age, annual income, amount spent in last 2 years, education level, marital status, marketing campaign responses.
+-Users range from age 24 to age 80.
 -The data set was provided for an interview exercise and can be found [here] (https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv)
 
 Let’s break down the customer sample into age groups to gain some insight about iFood app users. I created 4 age groups to help categorize users.  The chart below shows that the largest group of users (42%) are between ages 36-50, while the fewest users are aged 24-35.
