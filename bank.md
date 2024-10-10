@@ -10,6 +10,8 @@ Users range from age 24 to age 80.
 The data set was provided for an interview exercise and can be found here https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv
 Let’s break down the customer sample into age groups to gain some insight about iFood app users. I created 4 age groups to help categorize users.  The chart below shows that the largest group of users (42%) are between ages 36-50, while the fewest users are aged 24-35.
 
+<img href="images/DD-agegroup.png>
+
 This information helps create a business strategy. Should iFood work to attract more users in the younger demographic? Or should they focus on targeting the group with the most users? To help answer this question, I looked deeper into the behaviors of each group. 
 First, I looked at the spending behavior of all age groups and the annual income. Here we can see that the average annual income increases with age. We can also see that users in the older age groups spent more of their income on iFood, likely because of their higher earnings. 
 
