@@ -6,8 +6,11 @@ The data set available to me is from an app called iFood.
 A couple of notes about the data set:
 
 -It contains user data for a sample of 2,205 iFood app users.
+
 -Information collected includes age, annual income, amount spent in last 2 years, education level, marital status, marketing campaign responses.
+
 -Users range from age 24 to age 80.
+
 -The data set was provided for an interview exercise and can be found [here] (https://github.com/nailson/ifood-data-business-analyst-test/blob/master/ifood_df.csv)
 
 Let’s break down the customer sample into age groups to gain some insight about iFood app users. I created 4 age groups to help categorize users.  The chart below shows that the largest group of users (42%) are between ages 36-50, while the fewest users are aged 24-35.
