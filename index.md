@@ -8,8 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 Analyzing data from a food delivery app using Excel.
 
----
-#### [PowerBI Visualization](/PowerBI)
+#### [Team Efficiency Analysis](/PowerBI)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
