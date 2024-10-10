@@ -4,6 +4,7 @@ I recently went on a trip to New York City. On the second day of the trip, I was
 The data set available to me is from an app called iFood. 
 
 A couple of notes about the data set:
+
 -It contains user data for a sample of 2,205 iFood app users.
 -Information collected includes age, annual income, amount spent in last 2 years, education level, marital status, marketing campaign responses.
 -Users range from age 24 to age 80.
