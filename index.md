@@ -4,9 +4,9 @@
 
 ### Learn About My Projects
 
-#### [Internal Blog Post Project](/DoorDash)
+#### [DoorDash Deep Dive](/DoorDash)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Tolulope is the best
+Analyzing data from a food delivery app using Excel.
 
 ---
 #### [Linked File Project](/files/Day 12 - 21 days to data.pdf)
