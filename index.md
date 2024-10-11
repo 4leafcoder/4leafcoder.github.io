@@ -13,20 +13,19 @@ Analyzing data from a food delivery app using Excel.
 For this project, I created reports and dashboards in PowerBI to identify relationships between team staffing level, efficiency, and customer satisfaction.
 
 ---
-#### [SQL Exercise with Healthcare Data](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [SQL Exercise with Healthcare Data]()
 
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
-
-
----
-#### [Tableau](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
-
-In this case study from Data Analytics Accelerator, I was prompted to analyze the State of Massachusetts education data. The main focuses were:
-What schools are struggling the most?
-How does class size affect college admission?
-What are the top math schools in the state? 
+*write up in progress*
 
 ---
+#### [Tableau]()
+*write up in progress*
+
+In this case study, I was prompted to analyze the NBA stats. Some of the questions asked of the data were:
+What position is the most efficient at shooting 3-pointers for every team?
+How did certain players perform on total points, total assists, & total rebounds?
+Which players had the most assists in every position?
+
 
 
 
