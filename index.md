@@ -5,7 +5,7 @@
 ### Learn About My Projects
 
 #### [DoorDash Deep Dive](/DoorDash)
-<img src="images/DD_PIC.png?raw=true"/>
+<img src="images/DD PIC.png?raw=true"/>
 Analyzing data from a food delivery app using Excel.
 
 #### [Team Efficiency Analysis](/PowerBI)
