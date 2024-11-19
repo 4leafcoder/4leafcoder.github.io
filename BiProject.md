@@ -4,6 +4,7 @@ Over the past few years, data jobs have exploded. Data Engineers, Analysts, Arch
 To conduct my analysis, I used PowerBI to analyze responses to the survey. 
 
 First, I created some questions to answer with the data.
+
 -What is the average salary reported for each Job Title?
 
 -Which job role is the happiest with their salary?
