@@ -7,7 +7,7 @@ First, I created some questions to answer with the data.
 
 -What is the average salary reported for each Job Title?
 
--Which job role is the happiest with their salary?
+-Which Programming language is preferred by each role?
 
 -Which role has the best work/life balance?
 
@@ -23,3 +23,8 @@ Here is a quick look at the overall dash.
 
 From this dashboard, I was able to find the information I was interested in. 
 Looking at the average salary, I found that overall, Data Scientists had the highest salaries. However, slicing the data by country revealed that Data Scientist is not the highest earning title globally.  I also discovered that the job titles may not exist in all countries. In India, for example, the title of Data Architect was not reported at all. Since this is a small data set (only 73 respondents from India) more data is certainly necessary to draw any conclusions around this.
+<img src="images/salary gif.gif?raw=true"/>
+
+Another aspect I was interested in was which programming languages were most popular among each job title. Overwhelmingly, Python is the preferred choice among all job titles, especially data analysts. 
+
+![2024-11-19_13h51_57](https://github.com/user-attachments/assets/ada1e1ce-7887-432f-a412-d762c613e310)
