@@ -21,3 +21,5 @@ The salary information collected also needed to be cleaned. The survey provided 
 Here is a quick look at the overall dash.
 <img src="images/2024-11-14_16h06_18.gif?raw=true"/>
 
+From this dashboard, I was able to find the information I was interested in. 
+Looking at the average salary, I found that overall, Data Scientists had the highest salaries. However, slicing the data by country revealed that Data Scientist is not the highest earning title globally.  I also discovered that the job titles may not exist in all countries. In India, for example, the title of Data Architect was not reported at all. Since this is a small data set (only 73 respondents from India) more data is certainly necessary to draw any conclusions around this.
