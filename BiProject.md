@@ -5,9 +5,13 @@ To conduct my analysis, I used PowerBI to analyze responses to the survey.
 
 First, I created some questions to answer with the data.
 -What is the average salary reported for each Job Title?
+
 -Which job role is the happiest with their salary?
+
 -Which role has the best work/life balance?
+
 -Did happiness with salary or work/life balance vary by country?
+
 
 With these questions in mind, I dove into the data. I received the data set in a CSV file which I loaded into PowerBI. I then formatted and cleaned the data to my needs. For example, several of the questions offered an "Other" option where users could answer in free text. This created a lot of varied responses. I chose to standardize the free text responses to all be categorized as "Other." 
 
