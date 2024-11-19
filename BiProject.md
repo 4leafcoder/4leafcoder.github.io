@@ -1,6 +1,18 @@
 ### Data Professional Survey Analysis
 
-For this project, I used PowerBI to analyze responses from a survey taken by data professionals across the world. 
+Over the past few years, data jobs have exploded. Data Engineers, Analysts, Architects, and others each play a crucial part in the end to end data analysis process. A data professional, known as "Alex the Analyst" posted a survey to his online community asking for information from other data professionals about their job titles, salary, and location among other things. There were 630 responses before the survey was closed. So what can be learned from this data? 
+To conduct my analysis, I used PowerBI to analyze responses to the survey. 
 
+First, I created some questions to answer with the data.
+-What is the average salary reported for each Job Title?
+-Which job role is the happiest with their salary?
+-Which role has the best work/life balance?
+-Did happiness with salary or work/life balance vary by country?
+
+With these questions in mind, I dove into the data. I received the data set in a CSV file which I loaded into PowerBI. I then formatted and cleaned the data to my needs. For example, several of the questions offered an "Other" option where users could answer in free text. This created a lot of varied responses. I chose to standardize the free text responses to all be categorized as "Other." 
+
+The salary information collected also needed to be cleaned. The survey provided response choices of salary ranges (0-40k, 41-65k, etc). From an analysis perspective, the ranges are difficult to work with. To resolve this, I took the average of each range and created a column with those values. If a user reported their salary was between 0-40k, the average of that range is 20k. I created an average salary column with the averages from the range chosen by the user. Once the data was cleaned and formatted, I created a dashboard to provide answers to the questions of interest.
+
+Here is a quick look at the overall dash.
 <img src="images/2024-11-14_16h06_18.gif?raw=true"/>
 
