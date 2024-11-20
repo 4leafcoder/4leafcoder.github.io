@@ -8,16 +8,20 @@
 <img src="images/DDPICbig.png?raw=true"/>
 Analyzing data from a food delivery app using Excel.
 
+---
+
+#### [Understanding Survey Responses in PowerBI](/BiProject)
+
+Over 600 Data Professionals were asked about their careers and journeys into data. In this project, I created a visual to display the results and to identify trends. SURVEY SAYS!?!....
+
+---
+
 #### [Team Efficiency Analysis](/PowerBI)
 <img src="images/POWERBI.png?raw=true"/>
 For this project, I created reports and dashboards in PowerBI to identify relationships between team staffing levels, efficiency, and customer satisfaction.
 
 ---
-#### [Understanding Survey Responses in Power](/BiProject)
 
-Over 600 Data Professionals were asked about their careers and journeys into data. In this project, I created a visual to display the results and to identify trends. SURVEY SAYS!?!....
-
----
 #### [Tableau]()
 *write up in progress*
 
