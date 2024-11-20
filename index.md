@@ -13,6 +13,7 @@ Analyzing data from a food delivery app using Excel.
 #### [Understanding Survey Responses in PowerBI](/BiProject)
 
 Over 600 Data Professionals were asked about their careers and journeys into data. In this project, I created a visual to display the results and to identify trends. SURVEY SAYS!?!....
+![BI survey project](https://github.com/user-attachments/assets/a4f71191-e846-4be1-a807-5d077e84f006)
 
 ---
 
