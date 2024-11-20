@@ -31,6 +31,6 @@ The chart above uses a stacked bar chart to show the popularity of each language
 
 Now let's look at the last area of Ineterst: Work/Life Balance. 
 ![2024-11-20_09h47_30](https://github.com/user-attachments/assets/c76f7480-4ce7-4001-9060-e17a3b9be3e7)
-here we can see that Students or those looking for a data job are the least satisfied with work/life balance. This makes sense since they are not in active data roles. We can also see that most of the roles are near the average rating, with only about .5 point variation at most. Data Architects are the least happy with work-life balances, but interestingly very satisfied with their salary. 
+Here we can see that Students or those looking for a data job are the least satisfied with work/life balance. This makes sense since they are not in active data roles. We can also see that most of the roles are near the average rating, with only about .5 point variation at most. Data Architects are the least happy with work-life balances, but interestingly very satisfied with their salary. 
 
 I enjoy looking at data in dashboards and visualizations because it allows so many relationships to be on display at once. Visualizations can lead to new questions and deeper analysis. While this project looked at a very focused set of data, I really enjoyed looking at the relationships between job title, salary, work/life balance, and location! 
