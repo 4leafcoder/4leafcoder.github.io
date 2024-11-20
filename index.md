@@ -10,12 +10,12 @@ Analyzing data from a food delivery app using Excel.
 
 #### [Team Efficiency Analysis](/PowerBI)
 <img src="images/POWERBI.png?raw=true"/>
-For this project, I created reports and dashboards in PowerBI to identify relationships between team staffing level, efficiency, and customer satisfaction.
+For this project, I created reports and dashboards in PowerBI to identify relationships between team staffing levels, efficiency, and customer satisfaction.
 
 ---
-#### [SQL Exercise with Healthcare Data]()
+#### [Understanding Survey Responses in Power](/BiProject)
 
-*write up in progress*
+Over 600 Data Professionals were asked about their careers and journeys into data. In this project, I created a visual to display the results and to identify trends. SURVEY SAYS!?!....
 
 ---
 #### [Tableau]()
